@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS Proxy Exit Node"
+  short_description: "Deploy a VPS as a Tailscale exit node and 3X-UI proxy node."
+  default_prompt: "Configure this VPS as a Tailscale exit node and 3X-UI VLESS Reality proxy node using the provided SSH credentials, then verify HTTPS panel access, subscription publishing, and service health."
