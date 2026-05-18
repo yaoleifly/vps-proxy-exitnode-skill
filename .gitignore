@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+*.tmp
+config.json
+*.key
+*.pem
+id_*
+known_hosts*
